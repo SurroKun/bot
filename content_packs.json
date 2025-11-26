@@ -1,0 +1,50 @@
+{
+  "hot1": {
+    "title": "Набір 2",
+    "price": 2,
+    "files": [
+      "https://picsum.photos/seed/vip1/800/1200",
+      "https://picsum.photos/seed/vip2/800/1200",
+      "https://picsum.photos/seed/vip3/800/1200"
+    ]
+  },
+  "hot2": {
+    "title": "Ексклюзив #2",
+    "price": 1,
+    "files": [
+      "https://picsum.photos/seed/vip11/800/1200",
+      "https://picsum.photos/seed/vip12/800/1200",
+      "https://picsum.photos/seed/vip13/800/1200",
+      "https://picsum.photos/seed/vip14/800/1200",
+      "https://picsum.photos/seed/vip15/800/1200"
+    ]
+  },
+  "pack_1763524393": {
+    "title": "Тестовий",
+    "price": 1,
+    "files": [
+      [
+        "photo",
+        "AgACAgIAAxkBAAID12kdPgeHdiCjhiAFl46tyh_MSAjYAAIyDGsbi5voSDLJ2eqVCFkjAQADAgADeQADNgQ"
+      ],
+      [
+        "video",
+        "BAACAgIAAxkBAAIEAWkdPygx8rDbq3uLvYGb_RKRY_KtAAI9ggACi5voSJYxwcaowg-wNgQ"
+      ]
+    ]
+  },
+  "pack_1763746006": {
+    "title": "тестовий пак",
+    "price": 1,
+    "files": [
+      [
+        "photo",
+        "AgACAgIAAxkBAAIEb2kgoMqpqWcd8rS8dqVZW9jwKAlNAAJWEGsbVtcBSe4QskZV2EL9AQADAgADeAADNgQ"
+      ],
+      [
+        "video",
+        "BAACAgIAAxkBAAIEcWkgoNYCik6IqNOujO6DjLLUfP1BAALzoAACVtcBSaGi0vExsjUxNgQ"
+      ]
+    ]
+  }
+}
