@@ -20,9 +20,9 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 
 # ==================== НАЛАШТУВАННЯ ====================
-TOKEN = "8535159174:AAFVhYRZIjj9CM03ud72foAoPPwv2RxVSdA"
+TOKEN = ""
 # ==================== АДМІНКА ====================
-ADMIN_ID = [202322435, 7807230898]  # ← заміни на свій Telegram ID (можна кілька через кому)
+ADMIN_ID =   # ← заміни на свій Telegram ID (можна кілька через кому)
 # ADMIN_ID = [6027893162, 123456789]   # якщо кілька адмінів
 
 def is_admin(user_id: int) -> bool:
@@ -500,4 +500,5 @@ async def main():
     await dp.start_polling(bot)
 
 if __name__ == "__main__":
+
     asyncio.run(main())
